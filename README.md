@@ -1,5 +1,5 @@
 # git-hello-world-haleema13
-git-hello-world-haleema13 created by GitHub Classroom
+
 
 To execute my program:
 1. Open the Python IDE.
