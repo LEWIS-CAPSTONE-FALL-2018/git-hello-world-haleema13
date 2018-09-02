@@ -1,6 +1,4 @@
 # git-hello-world-haleema13
-
-
 To execute my program:
 1. Open the Python IDE.
 2. Create a new file by clicking "File"-> "New File"
